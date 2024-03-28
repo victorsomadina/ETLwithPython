@@ -4,3 +4,4 @@ This project involves scraping a 2024 world population data from this [website](
 click [here](https://github.com/victorsomadina/ETLwithPython/blob/main/ETL%20Process.ipynb) for the full Python  project documentation.
 
 See a snapshot of the data in the data warehouse below. 
+![Screenshot 2024-03-23 224827](https://github.com/chrisaliyuda/World-Population-An-ETL-Project/assets/102206477/c4849ae9-5447-4184-a946-035f10cd9a1c)
